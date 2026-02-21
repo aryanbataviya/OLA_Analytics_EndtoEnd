@@ -15,11 +15,11 @@ This project analyzes ride booking data to extract business insights using:
 
 ## 🛠 Tech Stack
 - Python
-- Pandas
+- Pandas      
 - Plotly
 - Streamlit
 - Power BI
 - MySQL
 
 ## 🚀 Live App
-(Will be added after deployment)
+https://aryan-ola-rides.streamlit.app
