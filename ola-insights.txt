@@ -1,0 +1,29 @@
+Total revenue exceeds ₹5.65 Crores.
+
+Ride success rate is 62%.
+
+38% rides are lost due to cancellations and driver issues.
+
+Peak demand during 8–9 AM & 12–1 PM.
+
+Prime Sedan is most preferred and highest revenue vehicle.
+
+Cash & UPI dominate payment transactions.
+
+Average driver rating is 4.0.
+
+Driver cancellations are the biggest operational issue.
+
+Driver Not Found cases indicate supply mismatch.
+
+Strong opportunity to optimize driver allocation and surge pricing.
+
+
+
+Driver cancellations are directly impacting revenue.
+
+Improving ride completion by even 5–10% could increase revenue significantly.
+
+Peak-hour driver allocation can reduce “Driver Not Found” cases.
+
+Cancellation reduction strategy = revenue growth strategy.
